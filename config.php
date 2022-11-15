@@ -3,7 +3,7 @@
 use Illuminate\Support\Str;
 
 return [
-    'baseUrl' => 'http://localhost:3000',
+    'baseUrl' => 'https://nihirzalatest.netlify.app',
     'production' => false,
     'siteName' => 'Nihir Zala',
     'siteDescription' => 'Full-stack web app developer from India',

@@ -10,9 +10,7 @@
             class="
                 h-24 w-24 flex-shrink-0 rounded-full border border-gray-400
                 md:h-32 md:w-32
-            "
-            style="display: none"
-        />
+            "        />
 
         <div class="mt-6 md:ml-6 md:mt-0">
             <div class="inline-flex items-center justify-center">
